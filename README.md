@@ -6,7 +6,7 @@
 
 * Como posicionar icone em um botão(add_pixlabel OBSOLETO)?
 * Como esconder a borda de um botão?
-* Como um modelo de Gtk::RadioButton utilizando Gtk::Button?
+* Como criar um modelo de Gtk::RadioButton utilizando Gtk::Button?
 * Como adicionar flags aos botões?
 * Como criar sinais, ligar um sinal e um botão e realizar alterações de propriedades de widgets?
 
